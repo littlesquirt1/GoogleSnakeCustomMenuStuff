@@ -3,49 +3,49 @@ window.snake.more_menu = function(e) {
   
   // micro
   let img = new Image;
-  img.src = 'https://i.postimg.cc/FHxxLK4m/micro-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/micro-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // tiny
   img = new Image;
-  img.src = 'https://i.postimg.cc/dtr6JBNh/tiny-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/tiny-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // super big
   img = new Image;
-  img.src = 'https://i.postimg.cc/mg4wkHK8/superbig-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/superbig-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // ultra big
   img = new Image;
-  img.src = 'https://i.postimg.cc/1RLMxTBx/ultrabig-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/ultrabig-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // humongous
   img = new Image;
-  img.src = 'https://i.postimg.cc/vmHtLdYn/humoungus-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/humoungus-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
-  img.src = 'https://i.postimg.cc/8CKBZnc0/toobigg-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/toobigg-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
-  img.src = 'https://i.postimg.cc/Fsdz2CRL/purgatory.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/purgatory.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
@@ -55,7 +55,7 @@ window.snake.more_menu = function(e) {
 
   // blursed
   img = new Image;
-    img.src = 'https://i.postimg.cc/3yDHmPj4/blursed.png';
+    img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/blursed.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -65,7 +65,7 @@ window.snake.more_menu = function(e) {
 
   // lightning
   img = new Image;
-  img.src = 'https://i.postimg.cc/9Q9KJsnk/bolt.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/bolt.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -73,7 +73,7 @@ window.snake.more_menu = function(e) {
 
   // snail
   img = new Image;
-  img.src = 'https://i.postimg.cc/vHkC7G39/snai.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/snai.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -81,7 +81,7 @@ window.snake.more_menu = function(e) {
 
   // fast-slow 2: faster and slower
   img = new Image;
-  img.src = 'https://i.postimg.cc/QxFkJtMD/bru.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/bru.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -89,7 +89,7 @@ window.snake.more_menu = function(e) {
 
   // desert bus
   img = new Image;
-    img.src = 'https://i.postimg.cc/2bRNw2TH/desertbus.png';
+    img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/desertbus.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -97,7 +97,7 @@ window.snake.more_menu = function(e) {
 
   // bullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/xCqBt7dD/bullet.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/bullet.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -105,7 +105,7 @@ window.snake.more_menu = function(e) {
 
   // hyperbullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/KYG6g4SY/hyperbullet.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/hyperbullet.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -113,7 +113,7 @@ window.snake.more_menu = function(e) {
 
   // ultrabullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/7Znv60Rc/no.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/no.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -121,7 +121,7 @@ window.snake.more_menu = function(e) {
 
   // yeetbullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/NMCVrwR2/aaaaaaaaa.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/aaaaaaaaa.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -129,7 +129,7 @@ window.snake.more_menu = function(e) {
 
   // eternity
   img = new Image;
-  img.src = 'https://i.postimg.cc/mDHJv50v/eternal.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/eternal.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -137,7 +137,7 @@ window.snake.more_menu = function(e) {
 
   // ultradeath
   img = new Image;
-    img.src = 'https://i.postimg.cc/nXWJsHmf/ultradeath.png';
+    img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/ultradeath.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -148,14 +148,14 @@ window.snake.more_menu = function(e) {
 
   // 13
   img = new Image;
-  img.src = 'https://i.postimg.cc/sXM1sTcq/manyapples-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/manyapples-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
 
   // 25
   img = new Image;
-  img.src = 'https://i.postimg.cc/YSnj551Q/appletree-1.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/appletree-1.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
@@ -169,21 +169,21 @@ window.snake.more_menu = function(e) {
 
   // 87
   img = new Image;
-  img.src = 'https://i.postimg.cc/mZmx4Tqc/alotactually.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/alotactually.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
 
   // apple bomb
   img = new Image;
-  img.src = 'https://i.postimg.cc/RZR0fWZM/applebomb.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/applebomb.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
 
   // apple nuke
   img = new Image;
-  img.src = 'https://i.postimg.cc/fbvMtyDx/applenuke.png';
+  img.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/applenuke.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
@@ -500,7 +500,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://i.postimg.cc/RZR0fWZM/applebomb.png';
+              __c.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/applebomb.png';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
@@ -509,7 +509,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://i.postimg.cc/fbvMtyDx/applenuke.png';
+              __c.src = 'https://raw.githubusercontent.com/littlesquirt1/GoogleSnakeCustomMenuStuff/main/img/applenuke.png';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
